@@ -8,7 +8,8 @@ using namespace std;
 
 //Main function definition
 int main() {
-	
+	   
+     
   system("pause");
   return 0;
 }
